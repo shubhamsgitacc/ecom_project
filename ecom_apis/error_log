@@ -1,0 +1,42 @@
+[11-Sep-2021 16:25:40 Asia/Kolkata] Array
+(
+    [user_id] => 1
+    [products] => [{"data1":"280","data4":"1","data6":"6","data9":"","itemQty":0},{"data1":"278","data4":"1","data6":"4","data9":"","itemQty":0},{"data1":"279","data4":"1","data6":"4","data9":"","itemQty":0},{"data1":"276","data4":"1","data6":"4","data9":"","itemQty":0},{"data1":"277","data4":"1","data6":"2","data9":"2","itemQty":0}]
+)
+
+[11-Oct-2021 15:09:37 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ditrp3ej_cm_user'@'localhost' (using password: YES) in /home1/ditrpind/choicemaker.in/common/connection.php on line 7
+[11-Oct-2021 15:09:37 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 15:09:37 Asia/Kolkata] PHP Warning:  Helper::select(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 15:09:37 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/connection.php on line 10
+[11-Oct-2021 15:09:51 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ditrp3ej_cm_user'@'localhost' (using password: YES) in /home1/ditrpind/choicemaker.in/common/connection.php on line 7
+[11-Oct-2021 15:09:51 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 15:09:51 Asia/Kolkata] PHP Warning:  Helper::select(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 15:09:51 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/connection.php on line 10
+[11-Oct-2021 16:21:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ditrp3ej_cm_user'@'localhost' (using password: YES) in /home1/ditrpind/choicemaker.in/common/connection.php on line 7
+[11-Oct-2021 16:21:03 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 16:21:03 Asia/Kolkata] PHP Warning:  Helper::select(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 16:21:03 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/connection.php on line 10
+[11-Oct-2021 16:23:00 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ditrp3ej_cm_user'@'localhost' (using password: YES) in /home1/ditrpind/choicemaker.in/common/connection.php on line 7
+[11-Oct-2021 16:23:00 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 16:23:00 Asia/Kolkata] PHP Warning:  Helper::select(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 16:23:00 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/connection.php on line 10
+[11-Oct-2021 20:11:56 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ditrp3ej_cm_user'@'localhost' (using password: YES) in /home1/ditrpind/choicemaker.in/common/connection.php on line 7
+[11-Oct-2021 20:11:56 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 20:11:56 Asia/Kolkata] PHP Warning:  Helper::select(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[11-Oct-2021 20:11:56 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/connection.php on line 10
+[12-Oct-2021 06:53:00 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ditrp3ej_cm_user'@'localhost' (using password: YES) in /home1/ditrpind/choicemaker.in/common/connection.php on line 7
+[12-Oct-2021 06:53:00 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[12-Oct-2021 06:53:00 Asia/Kolkata] PHP Warning:  Helper::select(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/library.php on line 11
+[12-Oct-2021 06:53:00 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/ditrpind/choicemaker.in/common/connection.php on line 10
+[16-Nov-2021 11:06:02 Asia/Kolkata] Array
+(
+    [user_id] => 1
+    [products] => [{"data1":"50","data4":"1","data6":"13","data9":"","itemQty":0},{"data1":"277","data4":"1","data6":"2","data9":"2","itemQty":0},{"data1":"278","data4":"1","data6":"4","data9":"","itemQty":0},{"data1":"279","data4":"1","data6":"4","data9":"","itemQty":0}]
+)
+
+[14-Apr-2022 16:37:45 Asia/Kolkata] Array
+(
+    [user_id] => 1
+    [products] => [{"data1":"218","data4":"1","data6":"26","data9":"","itemQty":0}]
+)
+
